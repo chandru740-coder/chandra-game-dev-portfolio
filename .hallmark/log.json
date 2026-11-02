@@ -1,0 +1,29 @@
+[
+ {
+  "shape": "Marquee Hero",
+  "theme": "midnight",
+  "axes": "dark/grotesk-sans/cool",
+  "hero": "Poster",
+  "nav": "slab",
+  "footer": "letter close",
+  "imagery": "six user-replaceable still-image slots; no portfolio images supplied",
+  "entry": "hire",
+  "fingerprint": "Marquee Hero|Poster|slab|letter close|Midnight|portfolio index",
+  "sections": [
+   "hero",
+   "project index",
+   "featured case",
+   "about",
+   "contact",
+   "footer"
+  ],
+  "signature": "pending user-supplied cinematic still",
+  "waived": [
+   "81"
+  ],
+  "photos": [],
+  "prompt": "Professional game developer and 3D artist portfolio; cinematic, premium, immersive, modern; user requested labeled still-image placeholders and supplied no portfolio images.",
+  "date": "2026-10-31",
+  "mode": "build"
+ }
+]

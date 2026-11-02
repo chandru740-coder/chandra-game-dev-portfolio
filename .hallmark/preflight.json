@@ -1,0 +1,32 @@
+{
+  "preflight": "The project folder had no application source, package manifest, styles, or portfolio assets. The user confirmed the theme, genre, page shape, hero content, typography, and image-slot behavior.",
+  "preserved": [
+    "The pre-existing .hallmark/salt file was left untouched."
+  ],
+  "introduced": [
+    {
+      "area": "React and Vite application",
+      "citations": [
+        "package.json:1-18",
+        "src/main.jsx:1-9",
+        "src/App.jsx:1-30"
+      ]
+    },
+    {
+      "area": "Midnight theme tokens and page stylesheet",
+      "citations": [
+        "src/tokens.css:1-20",
+        "src/base.css:1-29",
+        "src/index.css:1-6"
+      ]
+    },
+    {
+      "area": "Replaceable image slots and supplied portfolio categories",
+      "citations": [
+        "src/data/portfolio.js:1-38",
+        "src/components/ImageSlot.jsx:1-21",
+        "README.md:1-22"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+node_modules/
+dist/
+
+# Videos hosted on Mux
+public/videos/**/*.mp4
