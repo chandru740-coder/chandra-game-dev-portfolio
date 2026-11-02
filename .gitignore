@@ -3,3 +3,6 @@ dist/
 
 # Videos hosted on Mux
 public/videos/**/*.mp4
+
+# Hallmark local files
+.hallmark/

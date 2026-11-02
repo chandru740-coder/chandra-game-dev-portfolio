@@ -108,7 +108,11 @@ export default function About() {
           >
             <h3 id="resume-title">Resume</h3>
             <p>Explore my experience, technical skills and project work.</p>
-            <a className="button" href="/files/resume.pdf" download="resume.pdf">
+            <a
+              className="button"
+              href="/files/chandraresumeunreal.pdf"
+              download="Chandra-Shekar-Resume.pdf"
+            >
               Download Resume
             </a>
           </section>
